@@ -17,7 +17,7 @@ Utilizar ferramentas de **ciência de dados** para explorar, tratar e analisar d
 - **Matplotlib**
 - **Seaborn**
 - **Scikit-learn** (para análises adicionais)
-- **JupyterLab / VSCode**
+- **JupyterLab
 - Dataset extraído de curso da **Data Science Academy (DSA)**
 
 ---
